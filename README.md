@@ -21,4 +21,4 @@ A privacy-first, local Retrieval-Augmented Generation (RAG) agent built using **
 ---
 
 ### Usage
-Add your research notes or text files into the directory, and then start the agent.
+Add research notes or text files into the directory, and then start the agent.
