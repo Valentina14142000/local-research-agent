@@ -1,4 +1,4 @@
-# Local Research Agent 🕵️‍♂️🤖
+# Local Research Agent 
 
 A privacy-first, local Retrieval-Augmented Generation (RAG) agent built using **LangGraph**, **LangChain**, and **LM Studio**. Designed to perform local document search and reasoning completely offline without leaking data to third-party APIs.
 
