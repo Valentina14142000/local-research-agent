@@ -86,6 +86,7 @@ pip install -r requirements.txt
 ```
 
 4. Configure Environment
+
 Create a local .env file from the template and configure your parameters:
 
 ```Bash
