@@ -90,8 +90,9 @@ Create a local .env file from the template and configure your parameters:
 
 ```Bash
 cp .env.example .env
-5. Launch the Application
 ```
+
+5. Launch the Application
 
 ```Bash
 streamlit run app.py
@@ -101,7 +102,7 @@ Access the control panel locally at http://localhost:port number
 ---
 
 ## 📂 Project Structure
-Plaintext
+```Plaintext
 local-research-agent/
 │
 ├── app.py                 # Streamlit application entry point & UI layout
@@ -114,6 +115,7 @@ local-research-agent/
 ├── .env.example           # Environment variable template
 ├── requirements.txt       # Project dependencies
 └── README.md              # Project documentation
+```
 
 ---
 
